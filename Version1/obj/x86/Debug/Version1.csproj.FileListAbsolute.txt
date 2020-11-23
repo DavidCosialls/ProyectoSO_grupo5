@@ -1,0 +1,45 @@
+C:\Users\brcri\AppData\Local\Temporary Projects\Version1\bin\Debug\Version1.exe
+C:\Users\brcri\AppData\Local\Temporary Projects\Version1\bin\Debug\Version1.pdb
+C:\Users\brcri\AppData\Local\Temporary Projects\Version1\obj\x86\Debug\Version1.Consultas.resources
+C:\Users\brcri\AppData\Local\Temporary Projects\Version1\obj\x86\Debug\Version1.Login.resources
+C:\Users\brcri\AppData\Local\Temporary Projects\Version1\obj\x86\Debug\Version1.Properties.Resources.resources
+C:\Users\brcri\AppData\Local\Temporary Projects\Version1\obj\x86\Debug\Version1.Register.resources
+C:\Users\brcri\AppData\Local\Temporary Projects\Version1\obj\x86\Debug\Version1.csproj.GenerateResource.Cache
+C:\Users\brcri\AppData\Local\Temporary Projects\Version1\obj\x86\Debug\Version1.exe
+C:\Users\brcri\AppData\Local\Temporary Projects\Version1\obj\x86\Debug\Version1.pdb
+C:\Users\brcri\Desktop\Universidad\SO\Proyecto\Version1\Version1\obj\x86\Debug\Version1.exe
+C:\Users\brcri\Desktop\Universidad\SO\Proyecto\Version1\Version1\obj\x86\Debug\Version1.pdb
+C:\Users\brcri\Desktop\Universidad\SO\Proyecto\Version1\Version1\obj\x86\Debug\Version1.Consultas.resources
+C:\Users\brcri\Desktop\Universidad\SO\Proyecto\Version1\Version1\obj\x86\Debug\Version1.Login.resources
+C:\Users\brcri\Desktop\Universidad\SO\Proyecto\Version1\Version1\obj\x86\Debug\Version1.Properties.Resources.resources
+C:\Users\brcri\Desktop\Universidad\SO\Proyecto\Version1\Version1\obj\x86\Debug\Version1.Register.resources
+C:\Users\brcri\Desktop\Universidad\SO\Proyecto\Version1\Version1\obj\x86\Debug\Version1.csproj.GenerateResource.Cache
+C:\Users\brcri\Desktop\Universidad\SO\Proyecto\Version1\Version1\bin\Debug\Version1.exe
+C:\Users\brcri\Desktop\Universidad\SO\Proyecto\Version1\Version1\bin\Debug\Version1.pdb
+D:\Drive Universidad\Universidad\Tercer Año\SO\Version1_Cris\Version1\obj\x86\Debug\Version1.pdb
+D:\Drive Universidad\Universidad\Tercer Año\SO\Version1_Cris\Version1\bin\Debug\Version1.exe
+D:\Drive Universidad\Universidad\Tercer Año\SO\Version1_Cris\Version1\bin\Debug\Version1.pdb
+D:\Drive Universidad\Universidad\Tercer Año\SO\Version1_Cris\Version1\obj\x86\Debug\Version1.Consultas.resources
+D:\Drive Universidad\Universidad\Tercer Año\SO\Version1_Cris\Version1\obj\x86\Debug\Version1.Login.resources
+D:\Drive Universidad\Universidad\Tercer Año\SO\Version1_Cris\Version1\obj\x86\Debug\Version1.Properties.Resources.resources
+D:\Drive Universidad\Universidad\Tercer Año\SO\Version1_Cris\Version1\obj\x86\Debug\Version1.Register.resources
+D:\Drive Universidad\Universidad\Tercer Año\SO\Version1_Cris\Version1\obj\x86\Debug\Version1.csproj.GenerateResource.Cache
+D:\Drive Universidad\Universidad\Tercer Año\SO\Version1_Cris\Version1\obj\x86\Debug\Version1.exe
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\Prueba 1 locuras\Version1\obj\x86\Debug\Version1.exe
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\Prueba 1 locuras\Version1\obj\x86\Debug\Version1.pdb
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\Prueba 1 locuras\Version1\bin\Debug\Version1.exe
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\Prueba 1 locuras\Version1\bin\Debug\Version1.pdb
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\Prueba 1 locuras\Version1\obj\x86\Debug\Version1.Consultas.resources
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\Prueba 1 locuras\Version1\obj\x86\Debug\Version1.Login.resources
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\Prueba 1 locuras\Version1\obj\x86\Debug\Version1.Properties.Resources.resources
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\Prueba 1 locuras\Version1\obj\x86\Debug\Version1.Register.resources
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\Prueba 1 locuras\Version1\obj\x86\Debug\Version1.csproj.GenerateResource.Cache
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\Prueba 1 locuras y PRUEBA 2\Version1\obj\x86\Debug\Version1.exe
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\Prueba 1 locuras y PRUEBA 2\Version1\obj\x86\Debug\Version1.pdb
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\Prueba 1 locuras y PRUEBA 2\Version1\bin\Debug\Version1.exe
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\Prueba 1 locuras y PRUEBA 2\Version1\bin\Debug\Version1.pdb
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\Prueba 1 locuras y PRUEBA 2\Version1\obj\x86\Debug\Version1.Consultas.resources
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\Prueba 1 locuras y PRUEBA 2\Version1\obj\x86\Debug\Version1.Login.resources
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\Prueba 1 locuras y PRUEBA 2\Version1\obj\x86\Debug\Version1.Properties.Resources.resources
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\Prueba 1 locuras y PRUEBA 2\Version1\obj\x86\Debug\Version1.Register.resources
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\Prueba 1 locuras y PRUEBA 2\Version1\obj\x86\Debug\Version1.csproj.GenerateResource.Cache
